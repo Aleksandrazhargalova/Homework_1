@@ -1,0 +1,8 @@
+pwd
+mkdir
+cd
+start .
+git add 
+touch
+cat
+
